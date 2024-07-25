@@ -21,4 +21,4 @@ Level Display: An HTML element to display the current level. <br>
 Game Over Message: An HTML element to display the game over message and the player's score. <br>
 This Simon Game implementation provides an engaging and interactive way to challenge your memory and concentration skills. Give it a try and see how many levels you can conquer!
 
-!logo()
+![logo](https://github.com/Arpitgarg07/Simon-Game/blob/master/simon-game.png)
